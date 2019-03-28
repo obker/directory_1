@@ -1,0 +1,2 @@
+-use Game(7) instead of Game() in the main file
+-use P4NNet7x7 instead of P4NNet in NNet
